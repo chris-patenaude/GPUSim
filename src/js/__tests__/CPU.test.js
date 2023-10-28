@@ -1,5 +1,5 @@
-import CPU from "@/js/CPU"; // Adjust the import to your file structure
-import Instruction from "@/js/Instruction"; // Adjust the import to your file structure
+import CPU from "@/js/CPU";
+import Instruction from "@/js/Instruction";
 
 describe("CPU", () => {
   let cpu;
